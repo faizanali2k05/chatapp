@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Pulse - AI Chat & Voice",
+  "description": "A sophisticated AI-powered chat application featuring real-time messaging, streaming AI responses, and a low-latency voice interaction mode using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
